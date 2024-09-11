@@ -1,0 +1,59 @@
+$date
+	Wed Aug  7 10:40:46 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module q2_tb $end
+$var wire 1 ! s $end
+$var wire 1 " co $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % cin $end
+$scope module hola $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % cin $end
+$var wire 1 " co $end
+$var wire 1 ! s $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+0!
+$end
+#20
+1!
+1%
+#40
+0"
+0%
+1$
+#60
+0$
+1#
+#80
+1"
+0!
+1%
+1$
+0#
+#100
+0$
+1#
+#120
+1"
+0%
+1$
+#140
+1!
+1%
+#160
